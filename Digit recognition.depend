@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1610643643 source:d:\projects\digit recognition\digit recognition\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string>
+	<math.h>
+	"vectors.h"
+	"ConnectionLayer.h"
+	"NeuronLayer.h"
+	"DigitImage.h"
+
+1610389987 d:\projects\digit recognition\digit recognition\vectors.h
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+
+1610493682 d:\projects\digit recognition\digit recognition\connectionlayer.h
+
+1610368775 d:\projects\digit recognition\digit recognition\neuronlayer.h
+
+1610498688 d:\projects\digit recognition\digit recognition\digitimage.h
+
